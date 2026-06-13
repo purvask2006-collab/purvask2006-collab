@@ -34,12 +34,12 @@ purva = {
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🔐 <a href="https://github.com/purvask2006-collab/privachain">PrivaChain</a></h3>
+      <h3> <a href="https://github.com/purvask2006-collab/privachain">PrivaChain</a></h3>
       <strong>Blockchain Privacy Solution</strong>
       <p>A metadata-blind hybrid trust layer with a novel <strong>Privacy Assurance Score (PAS)</strong> — the first unified cross-layer privacy KPI spanning blockchain, federated learning, and SSI.</p>
       <p>
@@ -50,7 +50,7 @@ purva = {
       </p>
     </td>
     <td width="50%">
-      <h3>🛡️ <a href="https://github.com/purvask2006-collab/guardiannet">GuardianNet</a></h3>
+      <h3> <a href="https://github.com/purvask2006-collab/guardiannet">GuardianNet</a></h3>
       <strong>AI-Powered Digital Rights Protection</strong>
       <p>Real-time threat detection platform with SIEM-grade log analysis, deepfake detection, DMCA automation, and network anomaly monitoring.</p>
       <p>
@@ -63,7 +63,7 @@ purva = {
   </tr>
   <tr>
     <td width="50%">
-      <h3>⚡ <a href="https://github.com/purvask2006-collab/Aethon_Pulse-The-optimisation-layer-that-makes-AI-sustainable">Aethon Pulse</a></h3>
+      <h3> <a href="https://github.com/purvask2006-collab/Aethon_Pulse-The-optimisation-layer-that-makes-AI-sustainable">Aethon Pulse</a></h3>
       <strong>The Optimisation Layer That Makes AI Sustainable</strong>
       <p>Real-time optimisation for AI pipelines — carbon-aware scheduling, intelligent resource allocation, and cloud cost intelligence. Reduces computational waste by <strong>40–70%</strong>.</p>
       <p>
@@ -77,9 +77,9 @@ purva = {
       <h3>🌱 Open Source — GSSoC 2026</h3>
       <p>Currently contributing to:</p>
       <ul>
-        <li>🦅 <strong>Eagle</strong> — Real-Time Semantic Surveillance</li>
-        <li>⚙️ <strong>Kerno</strong></li>
-        <li>📋 <strong>Execra</strong></li>
+        <li> <strong>Eagle</strong> — Real-Time Semantic Surveillance</li>
+        <li> <strong>Kerno</strong></li>
+        <li> <strong>Execra</strong></li>
       </ul>
       <p><em>Quality over quantity. Every PR should make the project meaningfully better.</em></p>
     </td>
@@ -156,7 +156,7 @@ purva = {
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 I'm always open to collaborating on projects in **cybersecurity**, **blockchain**, **open source**, or **sustainable tech**.
 
