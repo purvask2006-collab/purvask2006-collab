@@ -6,7 +6,7 @@
 
 **Cybersecurity · Blockchain & Web3 · Sustainable Technology · Open Source**
 
-*First-year B.Techh student @ Cummins College of Engineering for Women, Pune*
+*Second-year B.Techh student @ Cummins College of Engineering for Women, Pune*
 
 <br/>
 
