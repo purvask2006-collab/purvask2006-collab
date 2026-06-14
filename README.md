@@ -141,7 +141,7 @@ purva = {
 | | Award | Event | Year |
 |--|-------|-------|------|
 | 🥇 | **1st Place** | Axiem 2.0 — Inter-College IoT & Technology Competition | 2024 |
-| 🎖️ | **Campus Ambassador** | Eduveda — sole representative, Cummins College (500+ students) | 2024 |
+| 🎖️ | **SSoC 2026 Contributor** | Social Summer of Code | 2026 |
 | 🌐 | **GSSoC 2026 Contributor** | GirlScript Summer of Code — India's Largest Open Source Program | 2026 |
 
 ---
